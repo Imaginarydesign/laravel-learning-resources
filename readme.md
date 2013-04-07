@@ -6,14 +6,12 @@ Personal list of resources for learning Laravel (elegant PHP framework), if you 
 * [Laravel](http://laravel.com/): http://laravel.com
 * [Laravel on Github](https://github.com/laravel/laravel): https://github.com/laravel/laravel
 
----
 
 ##Official docs
 
 * [Documentation:](http://laravel.com/docs/) - http://laravel.com/docs/
 * [Forums:](http://forums.laravel.io/) - http://forums.laravel.io/
 
----
 
 ##Tutorials and screencasts
 
@@ -46,14 +44,12 @@ Personal list of resources for learning Laravel (elegant PHP framework), if you 
 * [Build Your First Admin Bundle for Laravel:](http://net.tutsplus.com/tutorials/php/build-your-first-admin-bundle-for-laravel/?search_index=6) - http://net.tutsplus.com/tutorials/php/build-your-first-admin-bundle-for-laravel/?search_index=6
 * [The Essentials of Creating Laravel Bundles:](http://net.tutsplus.com/tutorials/php/the-essentials-of-creating-laravel-bundles/?search_index=5) - http://net.tutsplus.com/tutorials/php/the-essentials-of-creating-laravel-bundles/?search_index=5
 * [Laravel 4: A Start at a RESTful API:](http://net.tutsplus.com/tutorials/php/laravel-4-a-start-at-a-restful-api/?search_index=4) - http://net.tutsplus.com/tutorials/php/laravel-4-a-start-at-a-restful-api/?search_index=4
-	
----
+
 
 ## Other collections
 * [List from Laravel forums:](http://forums.laravel.io/viewtopic.php?id=859) - http://forums.laravel.io/viewtopic.php?id=859
 * [Laravel Learning Resources](http://lorib.me/2013/03/04/laravel-learning-resources/) - http://lorib.me/2013/03/04/laravel-learning-resources/
 
----
 
 ##Other resources
 * [Laravel: Ins and Outs (topics)](http://laravel.io/) - http://laravel.io/
@@ -61,7 +57,6 @@ Personal list of resources for learning Laravel (elegant PHP framework), if you 
 * [Some tips for laravel newbies](http://laravel.io/topic/18/some-tips-for-laravel-newbies) - http://laravel.io/topic/18/some-tips-for-laravel-newbies
 * [Code Happy (Online Version)](http://codehappy.daylerees.com/) - http://codehappy.daylerees.com/
 
----
 	
 ##Laravel on Twitter
 
