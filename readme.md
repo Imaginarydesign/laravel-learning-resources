@@ -3,8 +3,8 @@ Personal list of resources for learning Laravel (elegant PHP framework), if you 
 
 ##Laravel
 
-* [Laravel](http://laravel.com/): http://laravel.com
-* [Laravel on Github](https://github.com/laravel/laravel): https://github.com/laravel/laravel
+* Laravel: <http://laravel.com>
+* Laravel on Github: <https://github.com/laravel/laravel>
 
 
 ##Official docs
