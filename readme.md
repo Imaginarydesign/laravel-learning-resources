@@ -21,7 +21,7 @@ Personal list of resources for learning Laravel (elegant PHP framework), if you 
 * [Shawn Mccool’s Laravel Series:](http://heybigname.com/series/laravel) - http://heybigname.com/series/laravel
 * [Matthew Machuga’s Laravel Screencasts](http://vimeo.com/user549215) - http://vimeo.com/user549215
 * [Andrewperk's youtube channel](http://www.youtube.com/playlist?list=PL09BB956FCFB5C5FD) - http://www.youtube.com/playlist?list=PL09BB956FCFB5C5FD
-* TutsPremium Premium:
+* TutsPlus (Premium):
 	* [The Power of Laravel Generators:](https://tutsplus.com/tutorial/the-power-of-laravel-generators/) - https://tutsplus.com/tutorial/the-power-of-laravel-generators/
 	* [Laravel Essentials:](https://tutsplus.com/course/laravel-essentials/) - https://tutsplus.com/course/laravel-essentials/
 	* [Hands-On: Build a Practical Web Application with Laravel:](https://tutsplus.com/course/hands-on-building-a-practical-web-application-with-laravel/) - https://tutsplus.com/course/hands-on-building-a-practical-web-application-with-laravel/
