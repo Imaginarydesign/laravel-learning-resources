@@ -9,18 +9,18 @@ Personal list of resources for learning Laravel (elegant PHP framework), if you 
 
 ##Official docs
 
-* [Documentation:](http://laravel.com/docs/) - http://laravel.com/docs/
-* [Forums:](http://forums.laravel.io/) - http://forums.laravel.io/
+* Documentation: <http://laravel.com/docs/>
+* Forums: <http://forums.laravel.io/>
 
 
 ##Tutorials and screencasts
 
 #### Screencasts
-* [Laravel Screencasts:](http://www.screenr.com/user/laravel) - http://www.screenr.com/user/laravel
-* [Laravel Screencast Primer - Essential Systems Explained by Shawn McCool:](http://forums.laravel.io/viewtopic.php?id=768) - http://forums.laravel.io/viewtopic.php?id=768
-* [Shawn Mccool’s Laravel Series:](http://heybigname.com/series/laravel) - http://heybigname.com/series/laravel
-* [Matthew Machuga’s Laravel Screencasts](http://vimeo.com/user549215) - http://vimeo.com/user549215
-* [Andrewperk's youtube channel](http://www.youtube.com/playlist?list=PL09BB956FCFB5C5FD) - http://www.youtube.com/playlist?list=PL09BB956FCFB5C5FD
+* Laravel Screencasts: <http://www.screenr.com/user/laravel>
+* Laravel Screencast Primer - Essential Systems Explained by Shawn McCool: <http://forums.laravel.io/viewtopic.php?id=768>
+* Shawn Mccool’s Laravel Series: <http://heybigname.com/series/laravel>
+* Matthew Machuga’s Laravel Screencasts: <http://vimeo.com/user549215>
+* Andrewperk's youtube channel: <http://www.youtube.com/playlist?list=PL09BB956FCFB5C5FD>
 * TutsPlus (Premium):
 	* [The Power of Laravel Generators:](https://tutsplus.com/tutorial/the-power-of-laravel-generators/) - https://tutsplus.com/tutorial/the-power-of-laravel-generators/
 	* [Laravel Essentials:](https://tutsplus.com/course/laravel-essentials/) - https://tutsplus.com/course/laravel-essentials/
